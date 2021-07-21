@@ -13,17 +13,8 @@ If you just complete the tutorial normally I will not see your code
 You also make a completely different game and use Javascript if you like
 
 
-> Open this page at [https://barry-williams.github.io/simple-platformer-tutorial/](https://barry-williams.github.io/simple-platformer-tutorial/)
 
 
-
-## Edit this project ![Build status badge](https://github.com/barry-williams/simple-platformer-tutorial/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/barry-williams/simple-platformer-tutorial** and click import
 
 
 
