@@ -1,16 +1,15 @@
- 
+## To get started
+Open this project in makecode arcade by clicking the button
+This is based on the simple-platformer tutorial found in the <a href="https://arcade.makecode.com/--skillmap" target="_blank">skillmap</a>
+I suggest having the skillmap open in one tab and the github project in another tab
+The reason I would like you to do it this way is I can see the code you are working on and help you more easily
+If you just complete the tutorial normally I will not see your code
+You also make a completely different game and use Javascript if you like
 
 
 > Open this page at [https://barry-williams.github.io/simple-platformer-tutorial/](https://barry-williams.github.io/simple-platformer-tutorial/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/barry-williams/simple-platformer-tutorial** and import
 
 ## Edit this project ![Build status badge](https://github.com/barry-williams/simple-platformer-tutorial/workflows/MakeCode/badge.svg)
 
@@ -20,12 +19,7 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/barry-williams/simple-platformer-tutorial** and click import
 
-## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/barry-williams/simple-platformer-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
